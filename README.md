@@ -21,7 +21,7 @@ To Add/Change a combat tracker image:
 
 To remove a combat tracker image:
 1. select a token
-2. click the "Remove Combat Tracker Image" macro and it will open a file picker to select an image.
+2. click the "Remove Combat Tracker Image" macro.
 3. The image flag will be removed from the Actor.
 
 note: Version 1.0 only supports Actors so if you have multiple copies of the same actor they will share the same Combat Tracker Image.
