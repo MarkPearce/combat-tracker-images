@@ -6,7 +6,7 @@ FoundryVTT Module that replaces images in the combat tracker
 This module lets you select a custom image to to represent an Actor in the combat tracker. Square images (1:1 aspect ration) are best.
 Now you can replace that token image with a nice headshot for your PC's
 
-![gif showing module working](https://imgur.com/G15AUuL)
+![gif showing module working](https://imgur.com/G15AUuL.gif)
 
 
 USAGE
