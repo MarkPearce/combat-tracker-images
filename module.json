@@ -3,7 +3,7 @@
     "title": "PF2e Combat Tracker Images",
     "description": "Replace the token images in the combat tracker with a specified image for each described actor.",
     "author": "Mark Pearce",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimumCoreVersion": "9.0",
     "compatibleCoreVersion": "9.0",
     "system": ["pf2e"],

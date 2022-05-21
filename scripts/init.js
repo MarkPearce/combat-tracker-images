@@ -17,6 +17,7 @@ Hooks.once("ready", () => {
 
 
 Hooks.on("createCombatant", function(combatant) {
+if (game.user.isGM){
 
 //  console.log (combatant.data._id);
 let actor = game.actors.get(combatant.data.actorId);
@@ -27,5 +28,8 @@ if (filepath != undefined) {
   let imgUpdate = [{_id:combatant.data._id,"img": filepath}];
   game.combat.updateEmbeddedDocuments("Combatant", imgUpdate);
 }
-
+}
 });
+
+
+
