@@ -1,6 +1,6 @@
 {
     "name": "combat-tracker-images",
-    "title": "PF2e Combat Tracker Images",
+    "title": "Combat Tracker Images",
     "description": "Replace the token images in the combat tracker with a specified image for each described actor.",
     "author": "Mark Pearce",
     "version": "1.0.1",
