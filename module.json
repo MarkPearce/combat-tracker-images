@@ -1,11 +1,13 @@
 {
-  "name": "combat-tracker-images",
+  "id": "combat-tracker-images",
   "title": "Combat Tracker Images",
   "description": "Replace the token images in the combat tracker with a specified image for each described actor.",
-  "author": "Mark Pearce",
-  "version": "1.0.2",
-  "minimumCoreVersion": "9.0",
-  "compatibleCoreVersion": "9.0",
+  "version": "2.0.0",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10
+  },
+  "authors": [{ "name": "Mark Pearce", "discord": "Mark Pearce#2772" }],
   "esmodules": ["scripts/init.js"],
   "packs": [
     {
